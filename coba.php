@@ -7,5 +7,10 @@
 </head>
 <body><h1>Hello world</h1>
 	   <p> Lorem epsum bla bla</p>
+	   <ul>
+	   	  <li>satu</li>
+	   	  <li>dua </li>
+	   	</ul>
+	   	
 </body>
 </html>
